@@ -1,0 +1,27 @@
+{
+  "name": "naisu-be",
+  "version": "1.0.0",
+  "description": "There's no place like localhost:127.0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Naissuuuu"
+  ],
+  "author": "Osha Prima Adidaya, Daffa M. Rizqy, Randhy Satrio",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-bearer-token": "^2.4.0",
+    "express-handlebars": "^6.0.6",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.4.6",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.7.7",
+    "puppeteer": "^15.5.0"
+  }
+}
